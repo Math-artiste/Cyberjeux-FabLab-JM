@@ -1,4 +1,4 @@
-# Cyberjeux-FabLab-JM <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mfts/papermark"></a>
+# Cyberjeux-FabLab-JM <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Math-artiste/Cyberjeux-FabLab-JM"></a>
 Bienvenue sur le github du projet "Cyberjeux" du Fablab du lycée Jean Monnet. Ici vous pourrez retrouver la partie software du projet ainsi que la roadmap !
 
 
